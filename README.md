@@ -32,7 +32,7 @@ Stromleser is a smart app that connects with the **Stromleser** device to monito
 2. **Navigate into the project directory:**
 
    ```bash
-   cd stromleser-app
+   cd IOT_based
    ```
 
 3. **Install dependencies:**
