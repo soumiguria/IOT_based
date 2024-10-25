@@ -66,6 +66,8 @@ Make sure to include the necessary assets (such as the Stromleser device image) 
 ---
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/e369a7e5-2b65-467d-b906-23acdf6dd5d6" width="300" height="600">
+
 
 
 This is the main screen where the user can:
